@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    background: #F0F2F5;
+}
+
+.main-div {
+
+    padding: 170px;
+
+}
+
+.main-div .child1 {
+
+    width: 40%;
+    height: 350px;
+    float: left;
+    padding: 30px;
+
+}
+
+.child1 img {
+
+    width: 300px;
+
+}
+
+.child1 p {
+
+    margin-top: -20px;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+
+.main-div .child2 {
+
+    width: 40%;
+    height: 350px;
+    background: white;
+    float: right;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.input-1 {
+
+    padding-left: 10px;
+    margin: 10px;
+    width: 370px;
+    height: 45px;
+    font-size: 17px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+}
+
+.input-2 {
+
+    padding-left: 10px;
+    margin: 10px;
+    width: 370px;
+    height: 45px;
+    font-size: 17px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+}
+
+.login {
+    background: #1877F2;
+    border: 1px solid gainsboro;
+    margin: 10px;
+    width: 385px;
+    height: 45px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.login:hover{
+    color: #9fc7fb;
+}
+
+.pass-forg {
+    text-align: center;
+}
+
+.pass-forg a {
+    color: #1877F2;
+    text-decoration: none;
+}
+
+.pass-forg a:hover{
+    text-decoration: underline;
+}
+
+.create-new-acc {
+
+    background: #36A420;
+    border: 1px solid gainsboro;
+    margin: 10px 10px 10px 100px;
+    width: 200px;
+    height: 45px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.create-new-acc:hover{
+    color: #82e86e;
+}
